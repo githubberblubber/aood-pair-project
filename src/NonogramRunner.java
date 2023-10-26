@@ -1,3 +1,6 @@
+import fullstack.NonogramGrid;
+import fullstack.NonogramScreen;
+
 public class NonogramRunner{
 	public static void main(String[] args) {
 		run();

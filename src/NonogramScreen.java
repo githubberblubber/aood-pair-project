@@ -3,6 +3,8 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+import fullstack.NonogramGrid;
+
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 

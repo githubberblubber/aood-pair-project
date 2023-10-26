@@ -1,3 +1,5 @@
+import fullstack.NonogramGrid;
+
 public class Game {
 	NonogramGrid currentSolution;
 	NonogramGrid playerGrid;
